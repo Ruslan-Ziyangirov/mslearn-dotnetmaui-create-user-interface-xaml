@@ -16,7 +16,6 @@
                 TextColor="{x:Static Member=notes:SharedResources.FontColor}"/>
 
         <Grid Grid.Row="2" ColumnDefinitions="Auto,30,Auto">
-
             <Button Grid.Column="0"
                     Text="Save" 
                     WidthRequest="100"
